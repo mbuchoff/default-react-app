@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './emoji-emoticon-silly.png';
 import './App.css';
 
 function App() {
